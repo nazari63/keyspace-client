@@ -87,3 +87,4 @@ bun run scripts/change-owner.ts
 bun run docs:dev
 bun run docs:build
 ```
+This project is a demonstration of blockchain technology and smart contract integration.
